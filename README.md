@@ -69,7 +69,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,raspberrypi,react,php,arduino,c,cs,eclipse,androidstudio,godot,unity,css,html,java,js,linux,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=atom,raspberrypi,react,php,arduino,c,c++,cs,eclipse,androidstudio,godot,unity,css,html,java,js,linux,py,vscode&perline=14" />
   </a>
 </p>
 
