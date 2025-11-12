@@ -31,16 +31,16 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="100%" align="center">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Takumishii&theme=synthwave&show_icons=true" />
   <br></br>
   <img  title="🔥" alt="streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takumishii&layout=donut" /> 
 </td>
 
-<td width="50%" align="center">
+<td width="0%" align="center">
 
-  <img  align="center"  src="https://imgur.com/gallery/snuggles-lunch-sPlGJjI"/>
+  <img  align="center"  src=""/>
   
   </td>
 </tr>
