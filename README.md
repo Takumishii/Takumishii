@@ -71,7 +71,7 @@
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=atom,raspberrypi,react,linux,kotlin,php,arduino,c,cpp,cs,php,py,eclipse,androidstudio,godot,unity,css,html,wordpress,java,kali,redhat,js,linux,py,vscode&perline=14" />
+<img src="https://skillicons.dev/icons?i=atom,raspberrypi,react,linux,kotlin,php,arduino,c,cpp,cs,php,py,eclipse,androidstudio,godot,unity,css,html,wordpress,java,kali,redhat,js,docker,flask,mysql,pytorch,vscode&perline=14" />
 </a>
 </p>
 
