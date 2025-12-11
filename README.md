@@ -22,7 +22,6 @@
 <!--Intro start-->
 - 🔭 Civil Computer Engineering Student
 
-- 📫 Feel free to reach me out **Takumishi.oficial@gmail.com**
 
 <!--Intro end-->
 
