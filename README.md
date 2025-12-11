@@ -35,14 +35,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Takumishii&theme=synthwave&show_icons=true&cache_buster=v=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Takumishii&theme=synthwave&show_icons=true&cache_buster=v=9" />
 <br></br>
-<img  title="🔥" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Takumishii&theme=synthwave&hide_border=false&cache_buster=v=8" /> 
+<img  title="🔥" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Takumishii&theme=synthwave&hide_border=false&cache_buster=v=9" /> 
 </td>
 
 <td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takumishii&layout=donut&cache_buster=v=8"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takumishii&layout=donut&cache_buster=v=9"/>
 
 </td>
 </tr>
@@ -52,7 +52,7 @@
 <!--- trophy (start) -->
 <div align=center>
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
- <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Takumishii&theme=matrix&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&cache_buster=v=7" alt="TROPHY" />
+ <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Takumishii&theme=matrix&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&cache_buster=v=9" alt="TROPHY" />
 </a>
 </div>
 <!--- trophy (end) -->
