@@ -34,14 +34,14 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Takumishii&theme=synthwave&show_icons=true&cache_buster=v=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Takumishii&theme=synthwave&show_icons=true&cache_buster=v=11" />
 <br></br>
-<img  title="🔥" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Takumishii&theme=synthwave&hide_border=false&cache_buster=v=10" /> 
+<img  title="🔥" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Takumishii&theme=synthwave&hide_border=false&cache_buster=v=11" /> 
 </td>
 
 <td width="50%" align="center">
 
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takumishii&layout=donut&cache_buster=v=10"/>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takumishii&layout=donut&cache_buster=v=11"/>
 
 </td>
 </tr>
